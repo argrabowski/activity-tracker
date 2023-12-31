@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CS_528_Project_3</string>
+    <string name="location_permission_denied">Permissions Denied</string>
+    <string name="permission_required_toast">Permissions Required</string>
+    <string name="permission_rationale_location">Permission Location</string>
+    <string name="empty_address">Address not available</string>
+    <string name="empty_activity">No Activity Recognized</string>
+    <string name="visits_to_fuller_labs_geofence">Visits to Fuller labs geoFence: %s</string>
+    <string name="visits_to_library_geofence">Visits to Library geoFence: %s</string>
+    <string name="current_activity">You are %s</string>
+    <string name="semantic_address">Address: %s</string>
+    <string name="steps_counter">Steps taken since app started: %s</string>
+</resources>
